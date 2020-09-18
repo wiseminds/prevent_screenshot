@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - prevent_screenshot (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - prevent_screenshot (from `.symlinks/plugins/prevent_screenshot/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  prevent_screenshot:
+    :path: ".symlinks/plugins/prevent_screenshot/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  prevent_screenshot: 2657c7d50b7e1e00c9e6c79633ee516a4a03b562
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
